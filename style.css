@@ -1,0 +1,18 @@
+body{
+    background-size:cover;
+}
+
+h3{
+    background-color: blueviolet;
+    color:white;
+    margin:0px;
+}
+
+button{
+    background-color: blueviolet;
+    color: white;
+    height:50px;
+    width:150px;
+    border-radius: 100px;
+    font-size:18px;
+}
