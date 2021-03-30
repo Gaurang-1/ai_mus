@@ -16,3 +16,8 @@ button{
     border-radius: 100px;
     font-size:18px;
 }
+
+canvas{
+    border:5px dashed gray;
+    border-radius: 20px;
+}
